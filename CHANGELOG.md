@@ -4,9 +4,14 @@ All notable changes to `phil/open-badges-bundle` will be documented in this file
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
-## 0.1.3-alpha - 2026-11-18
+## 0.1.4-alpha - 2026-11-24
 
-The next version is 0.1.3-alpha.
+### Changed
+
+- Requires the latest minor of each dependency (`twig/twig` 3.31, `phil/open-badges` 0.4, `phil/safe-http` 0.2,
+  `symfony/cache-contracts` 3.8).
+
+## 0.1.3-alpha - 2026-11-18
 
 ### Changed
 
@@ -19,15 +24,11 @@ The next version is 0.1.3-alpha.
 
 ## 0.1.2-alpha - 2026-11-17
 
-The next version is 0.1.2-alpha.
-
 ### Changed
 
 - It accepts `phil/open-badges` 0.3 beside 0.2.
 
 ## 0.1.1-alpha - 2026-11-15
-
-The next version is 0.1.1-alpha.
 
 ### Changed
 
